@@ -1,3 +1,5 @@
 # KrestikiNoliki
 Krestiki/Noliki game on WPF
-![](KrestikiNoliki/KrestikiNoliki.png)
+<div align="center">
+    <img src="KrestikiNoliki.png" width="400px"</img> 
+</div>
